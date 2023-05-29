@@ -1,3 +1,4 @@
+![FLUX Logo](https://i.imgur.com/69CJCOc.jpg)
 ## Welcome to FLUX 👋
 
 FLUX is a student-run organization dedicated to User Experience (UX) Design at the Savannah College of Art and Design. Our community is comprised of passionate thinkers and innovators who believe in the power of design, technology, and empathy to solve complex problems. We strive to empower the next generation of designers through a range of engaging events, workshops, talks, and employer visits throughout the year.
