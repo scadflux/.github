@@ -6,7 +6,7 @@ FLUX is a student-run organization dedicated to User Experience (UX) Design at t
 
 - Follow us on [Instagram](https://www.instagram.com/scadflux/) for updates and inspiration.
 - Connect with us on [LinkedIn](https://www.linkedin.com/company/clubflux/) to stay connected with our professional network.
-- Join our [Discord]([https://discord.gg/fluxscad](https://discord.com/invite/m2jE9Ng58y)) community to engage in discussions and connect with fellow UX enthusiasts.
+- Join our [Discord](https://discord.com/invite/m2jE9Ng58y) community to engage in discussions and connect with fellow UX enthusiasts.
 
 ## Point of Contact
 
