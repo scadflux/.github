@@ -1,12 +1,2 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Welcome to FLUX 👋
+FLUX is a student-run organization focused on User Experience (UX) Design at Savannah College of Art and Design. We are a community of thinkers and innovators invested in creative problem solving using design, technology, and empathy. We host a variety of events, workshops, talks, and employer visits year-round to empower the next generation of designers.
